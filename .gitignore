@@ -1,0 +1,10 @@
+percolation/.idea/*
+percolation/.lift/*
+queues/.idea/*
+queues/.lift/*
+queues/logo.png
+./.settings/*
+./.vscode/*
+./bin/*
+./input1.txt
+./percolation/CREDITS
